@@ -1,9 +1,10 @@
 {
   "name": "loginapp",
   "version": "1.0.0",
-  "description": "Simple Login App",
+  "description": "Simple authentication system",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
